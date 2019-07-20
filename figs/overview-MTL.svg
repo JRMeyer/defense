@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="overview-MTL.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/josh/git/thesis/figs/overview-MTL.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9292"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       id="linearGradient8474"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8472" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8468"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8466" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326-2"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326-7"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326-7-6"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326-7-6-6"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9326-7-8"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="467.05769"
+     inkscape:cy="280.65501"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect8500"
+       width="52.916664"
+       height="43.845234"
+       x="99.785713"
+       y="271.6756" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion8514"><rect
+           id="rect8516"
+           width="128.28937"
+           height="42.426407"
+           x="560.63464"
+           y="288.1337" /></flowRegion><flowPara
+         id="flowPara8518">ertert</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:0.15686275;stroke:#000000;stroke-width:1.84353054;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502"
+       width="93.784523"
+       height="46.18071"
+       x="103.84706"
+       y="87" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.81649113px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29541227"
+       x="151.96008"
+       y="105.81421"
+       id="text8522"><tspan
+         sodipodi:role="line"
+         x="151.96008"
+         y="105.81421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.45319271px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.29541227"
+         id="tspan8524">All Approaches</tspan><tspan
+         sodipodi:role="line"
+         x="151.96008"
+         y="120.58482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.45319271px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.29541227"
+         id="tspan8528">to MTL in ASR</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.15686275;stroke:#000000;stroke-width:1.56715894;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2"
+       width="72.548958"
+       height="43.140583"
+       x="33.756935"
+       y="157.34746" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.73066998px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26826674"
+       x="70.640221"
+       y="174.45657"
+       id="text8522-1"><tspan
+         sodipodi:role="line"
+         x="70.640221"
+         y="174.45657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.15377951px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26826674"
+         id="tspan8568">Monolingual</tspan><tspan
+         sodipodi:role="line"
+         x="70.640221"
+         y="187.8699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.15377951px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26826674"
+         id="tspan8584">Approaches</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8610"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion8612"><rect
+           id="rect8614"
+           width="337.39096"
+           height="208.09143"
+           x="-135.36044"
+           y="203.28087" /></flowRegion><flowPara
+         id="flowPara8616" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8706"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion8708"><rect
+           id="rect8710"
+           width="125.71429"
+           height="42.857143"
+           x="-228.57143"
+           y="545.37683" /></flowRegion><flowPara
+         id="flowPara8712">Tt</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.05882353;stroke:#000000;stroke-width:1.34471691;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2-4-4"
+       width="61.761955"
+       height="37.310539"
+       x="0"
+       y="223.91617" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.868427"
+       y="233.79483"
+       id="text8522-1-1-9"><tspan
+         sodipodi:role="line"
+         x="31.566172"
+         y="233.79483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8584-8-8">Make Use of </tspan><tspan
+         sodipodi:role="line"
+         x="29.868427"
+         y="247.024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8666-1">Linguistic</tspan><tspan
+         sodipodi:role="line"
+         x="29.868427"
+         y="260.25317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8704-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.104641"
+       y="253.14062"
+       id="text8716-6"><tspan
+         sodipodi:role="line"
+         id="tspan8714-4"
+         x="18.104641"
+         y="253.14062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Targets</tspan></text>
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:0.05882353;stroke:#000000;stroke-width:1.34471691;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2-4-4-5"
+       width="61.761955"
+       height="37.310543"
+       x="74.235168"
+       y="223.91617" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="104.10359"
+       y="233.79483"
+       id="text8522-1-1-9-9"><tspan
+         sodipodi:role="line"
+         x="105.80134"
+         y="233.79483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8584-8-8-8">Make Use of </tspan><tspan
+         sodipodi:role="line"
+         x="104.10359"
+         y="247.024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8666-1-7">Recording</tspan><tspan
+         sodipodi:role="line"
+         x="104.10359"
+         y="260.25317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8704-5-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.622543"
+       y="253.14062"
+       id="text8716-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan8714-4-8"
+         x="80.622543"
+         y="253.14062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Characteristics</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.15686275;stroke:#000000;stroke-width:1.56715894;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2-6"
+       width="72.548958"
+       height="43.140583"
+       x="194.75983"
+       y="157.34744" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.73066998px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26826674"
+       x="231.64311"
+       y="174.45657"
+       id="text8522-1-1"><tspan
+         sodipodi:role="line"
+         x="231.64311"
+         y="174.45657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.15377951px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26826674"
+         id="tspan8568-7">Multilingual</tspan><tspan
+         sodipodi:role="line"
+         x="231.64311"
+         y="187.8699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.15377951px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26826674"
+         id="tspan8584-1">Approaches</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.05882353;stroke:#000000;stroke-width:1.34471691;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2-4-4-4"
+       width="61.761955"
+       height="37.310543"
+       x="161.0029"
+       y="223.91617" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190.87131"
+       y="233.79483"
+       id="text8522-1-1-9-0"><tspan
+         sodipodi:role="line"
+         x="192.56905"
+         y="233.79483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8584-8-8-2">Make Use of </tspan><tspan
+         sodipodi:role="line"
+         x="190.87131"
+         y="247.024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8666-1-5"> Foreign Language</tspan><tspan
+         sodipodi:role="line"
+         x="190.87131"
+         y="260.25317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8704-5-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="184.02122"
+       y="253.51859"
+       id="text8716-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan8714-4-1"
+         x="184.02122"
+         y="253.51859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Data</tspan></text>
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:0.05882353;stroke:#000000;stroke-width:1.34471691;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect8502-2-4-4-5-6"
+       width="61.761955"
+       height="37.310543"
+       x="235.23805"
+       y="223.91617" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="265.10651"
+       y="233.79483"
+       id="text8522-1-1-9-9-9"><tspan
+         sodipodi:role="line"
+         x="266.80426"
+         y="233.79483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8584-8-8-8-7">Make Use of </tspan><tspan
+         sodipodi:role="line"
+         x="265.10651"
+         y="247.024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8666-1-7-0"> Foreign Language</tspan><tspan
+         sodipodi:role="line"
+         x="265.10651"
+         y="260.25317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan8704-5-0-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="257.87839"
+       y="253.51859"
+       id="text8716-6-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan8714-4-8-3"
+         x="257.87839"
+         y="253.51859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="239.6369"
+       y="247.48511"
+       id="text9259"><tspan
+         sodipodi:role="line"
+         id="tspan9257"
+         x="239.6369"
+         y="247.48511"
+         style="stroke-width:0.26458332"> </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.865;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 150.05655,132.58036 c 0,3.52752 0,7.05529 -13.60804,8.44131 -13.60804,1.38602 -40.820278,0.63013 -54.490543,2.89787 -13.670264,2.26774 -13.796255,7.55936 -13.922253,12.8513"
+       id="path9324"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326"
+       inkscape:original-d="m 150.05655,132.58036 c 2.6e-4,3.52752 2.6e-4,7.05529 0,10.58333 -27.21607,-0.75627 -54.428311,-1.51216 -81.64286,-2.26785 -0.12573,5.29145 -0.251719,10.58307 -0.377976,15.875" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.86500001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 150.05655,132.58036 c 0,3.52752 0,7.05529 13.60804,8.44131 13.60804,1.38602 40.82028,0.63013 54.49054,2.89787 13.67026,2.26774 13.79625,7.55936 13.92225,12.8513"
+       id="path9324-3"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326-2"
+       inkscape:original-d="m 150.05655,132.58036 c -2.6e-4,3.52752 -2.6e-4,7.05529 0,10.58333 27.21607,-0.75627 54.42831,-1.51216 81.64286,-2.26785 0.12573,5.29145 0.25172,10.58307 0.37797,15.875" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25518095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 67.578695,199.84902 c 0,3.52752 0,7.05529 -6.163836,8.44131 -6.163836,1.38602 -18.489754,0.63013 -24.681762,2.89787 -6.192007,2.26775 -6.249075,7.55937 -6.306147,12.8513"
+       id="path9324-2"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326-7"
+       inkscape:original-d="m 67.578695,199.84902 c 1.17e-4,3.52752 1.17e-4,7.05529 0,10.58333 -12.327655,-0.75627 -24.653574,-1.51216 -36.980539,-2.26785 -0.05695,5.29145 -0.114017,10.58307 -0.171206,15.875" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25518095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 67.578695,199.84902 c 0,3.52752 0,7.05529 6.163836,8.44131 6.163836,1.38602 18.489754,0.63013 24.68176,2.89787 6.192009,2.26775 6.249079,7.55937 6.306149,12.8513"
+       id="path9324-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326-7-6"
+       inkscape:original-d="m 67.578695,199.84902 c -1.19e-4,3.52752 -1.19e-4,7.05529 0,10.58333 12.327655,-0.75627 24.653574,-1.51216 36.980535,-2.26785 0.057,5.29145 0.11402,10.58307 0.17121,15.875"
+       inkscape:transform-center-x="36.663645"
+       inkscape:transform-center-y="-6.0510079" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25518095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 230.56548,200.23471 c 0,3.52752 0,7.05529 -6.16384,8.44131 -6.16384,1.38602 -18.48976,0.63013 -24.68176,2.89787 -6.19201,2.26775 -6.24908,7.55937 -6.30615,12.8513"
+       id="path9324-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326-7-8"
+       inkscape:original-d="m 230.56548,200.23471 c 1.2e-4,3.52752 1.2e-4,7.05529 0,10.58333 -12.32766,-0.75627 -24.65358,-1.51216 -36.98054,-2.26785 -0.057,5.29145 -0.11402,10.58307 -0.17121,15.875" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.25518095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 230.56548,200.23471 c 0,3.52752 0,7.05529 6.16383,8.44131 6.16384,1.38602 18.48976,0.63013 24.68176,2.89787 6.19201,2.26775 6.24908,7.55937 6.30615,12.8513"
+       id="path9324-2-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect9326-7-6-6"
+       inkscape:original-d="m 230.56548,200.23471 c -1.2e-4,3.52752 -1.2e-4,7.05529 0,10.58333 12.32765,-0.75627 24.65357,-1.51216 36.98053,-2.26785 0.057,5.29145 0.11402,10.58307 0.17121,15.875"
+       inkscape:transform-center-x="36.663645"
+       inkscape:transform-center-y="-6.0510079" />
+  </g>
+</svg>
